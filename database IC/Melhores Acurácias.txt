@@ -1,0 +1,4 @@
+multilayer perceptron= 84%
+simple logistic= 86%
+multiclassclassifier= 96&
+trees-LMT= 89%

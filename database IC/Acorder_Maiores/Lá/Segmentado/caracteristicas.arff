@@ -1,0 +1,14 @@
+@relation caracteristicas
+
+@attribute cima numeric
+@attribute baixo numeric
+@attribute esquerda numeric
+@attribute direita numeric
+@attribute DES numeric
+@attribute DEI numeric
+@attribute DDS numeric
+@attribute DDI numeric
+@attribute class {A, B, C, D, E}
+
+@data
+72.0,74.0,93.0,89.0,150.0,171.0,163.0,143.0,C
